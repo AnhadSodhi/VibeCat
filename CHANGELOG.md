@@ -2,6 +2,13 @@
 
 All notable changes to the "vibecat" extension will be documented in this file.
 
+## [1.0.1] - 2025-12-19
+
+### Changed
+- Added publisher ID to package.json
+- Added GIF preview to README
+- Changed version numbering scheme to be more clear
+
 ## [0.0.1] - 2025-12-16
 
 ### Added

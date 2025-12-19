@@ -2,7 +2,8 @@
   "name": "vibecat",
   "displayName": "VibeCat",
   "description": "",
-  "version": "0.0.1",
+  "version": "1.0.1",
+  "publisher": "VibeCat",
   "repository": {
     "type": "git",
     "url": "https://github.com/AnhadSodhi/VibeCat.git"

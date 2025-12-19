@@ -2,6 +2,8 @@
 
 A fun VSCode extension that displays an animated GIF in a sidebar panel, with frames advancing on every keyboard input. Watch your vibing cat (or any GIF you choose) react to your coding!
 
+![VibeCat Demo](assets/vibecat.gif)
+
 ## Features
 
 - **Interactive GIF Display**: Shows GIF frames in a dedicated sidebar panel
