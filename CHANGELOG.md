@@ -2,6 +2,13 @@
 
 All notable changes to the "vibecat" extension will be documented in this file.
 
+## [1.0.2] - 2025-12-23
+
+### Fixed
+- Removed redundant release notes from README.md
+### Added
+- Added extension icon to package.json for marketplace display
+
 ## [1.0.1] - 2025-12-19
 
 ### Changed
