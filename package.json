@@ -8,6 +8,7 @@
     "type": "git",
     "url": "https://github.com/AnhadSodhi/VibeCat.git"
   },
+  "icon": "assets/icon.png",
   "engines": {
     "vscode": "^1.107.0"
   },
