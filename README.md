@@ -43,17 +43,6 @@ No additional requirements or dependencies needed.
 
 None at this time. Please report any issues on the GitHub repository.
 
-## Release Notes
-
-### 0.0.1
-
-Initial release of VibeCat!
-
-- Display GIF frames in sidebar panel
-- Advance frames on keyboard input
-- Custom GIF support
-- Settings hot reload
-
 ---
 
 **Enjoy your vibing companion! 🐱**
